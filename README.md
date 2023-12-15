@@ -1,4 +1,4 @@
-# Responsive web design project A CAFE MENU
+# Responsive web design project: CAFE MENU
 ##
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
